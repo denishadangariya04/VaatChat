@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-style-chat",
+  "version": "1.0.0",
+  "description": "Socket.IO chat with guest mode, email login and one-to-one chats",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "socket.io": "^4.7.5"
+  }
+}
