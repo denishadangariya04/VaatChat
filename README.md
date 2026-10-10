@@ -1,2 +1,20 @@
-# VaatChat
-VaatChat is a modern, real-time messaging application built with Node.js, Express.js, and Socket.IO, featuring instant messaging, private conversations, and a responsive user-friendly interface for seamless communication across devices.
+# VaatChat 💬
+
+VaatChat is a real-time messaging application built using Node.js, Express.js, and Socket.IO.
+
+## Tech Stack
+
+- Node.js
+- Express.js
+- Socket.IO
+- HTML
+- CSS
+- JavaScript
+
+## Project Status
+
+Under development.
+
+## Author
+
+VaatChat Project
